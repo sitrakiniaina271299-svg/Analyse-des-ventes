@@ -20,7 +20,7 @@ Tableau de bord Power BI pour l'analyse des ventes.
 - Tableau de bord
 
 ## Aperçu
-- tableauDeBord.png
+![Dashboard](tableauDeBord.png)
 
 ## Fichier du projet
 - ventes.pbix
