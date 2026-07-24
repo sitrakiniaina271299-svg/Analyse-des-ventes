@@ -7,8 +7,8 @@ Tableau de bord Power BI pour l'analyse des ventes.
 - ,Analyser le chiffre d'affaires par date.
 - Analyser le chiffre d'affaires par type de paiement.
 - Comparer le chiffre d'affaires selon les catégories de produits 
-- Les tops 10 des produits le plus vendu 
-
+- Top 10 des produits les plus vendus
+  
 ## Outils utilisés
 - Power BI Desktop
 - Power Query
